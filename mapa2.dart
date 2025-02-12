@@ -4,7 +4,7 @@ void main() {
   Map<String, dynamic> sucursal = {
     'Id_sucursal': 2154,
     'direccion': 'Calle 5 de Mayo 123',
-    'nombre': 'Gabriel Alejandro',
+    'nombre': 'Suc.5 de mayo',
     'espacio': '100 m2',
     'instrumento': 'clarinete',
     'cantidad': 25,
