@@ -142,17 +142,16 @@ void main() {
   Norte norte = Norte(0, '', '', '', '', 0, 0);
   print('Datos del empleado:');
   pedro.capturarDatos();
-  
   pedro.mostrarDatos();
+
   print('====================');
   print('Datos del instrumento:');
   trompeta.capturarDatos();
-  
   trompeta.mostrarDatos();
+
   print('====================');
   print('Datos de la sucursal:');
   norte.capturarDatos();
-   
   norte.mostrarDatos();
 
 }
