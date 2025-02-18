@@ -1,4 +1,4 @@
-Trabajo en clase
+Trabajo en clase herencia 2
 
 ![alt text](image-8.png)
 
